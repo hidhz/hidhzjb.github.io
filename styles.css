@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(#e2edff,white);
+   background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+} 
+
+img{
+    width: 200px;
+    border-radius: 100%;
+    background-size: cover;
+}
+
+#particles-js{
+    height: 100vh;
+    position: relative;
+    top: -800px;
+}
+.container{
+    position: relative;
+    top: 800px;
+}
